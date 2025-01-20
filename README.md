@@ -9,5 +9,5 @@
   </section>
 </article>
 <footer>
-  <a href="https://gitlab.comp.dkit.ie/d00270955">Link to my gitlab</a>
+  <a href="https://gitlab.comp.dkit.ie/d00270955" target="_blank">Link to my gitlab</a>
 </footer>
