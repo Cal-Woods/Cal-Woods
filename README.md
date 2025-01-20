@@ -1,7 +1,8 @@
+
 <article>
   <section>
     <h2>Bio</h2>
-    <p>My name is Cal Woods and I am a second-year BSc in Computing student at Dundalk Institute of Further Education (DkIT) in Dundalk, Co Louth, Ireland. I am studying the software development stream which includes modules: Algorithms, Web Applications Development, Object-Oriented programming, Software Testing and more. Our primary programming language is Java. I have also done a level 5 in Computing course at Drogheda Institute of Further Education in Drogheda, Co Louth, Ireland, prior to coming to DkIT college.</p>
+    <p>My name is Cal Woods and I am a second-year BSc in Computing student at Dundalk Institute of Further Education (DkIT) in Dundalk, Co Louth, Ireland. I am studying the software development stream which includes modules: Algorithms, Web Applications Development, Object-Oriented programming, Software Testing and more. Our primary programming language is Java. I have also done a level 5 in Comting course at Drogheda Institute of Further Education in Drogheda, Co Louth, Ireland, prior to coming to DkIT college where Python was the computer language used for this course.</p>
   </section>
   <section>
     <h2>Purpose of this github account:</h2>
