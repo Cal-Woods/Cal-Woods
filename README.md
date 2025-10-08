@@ -8,6 +8,3 @@
     <p>To store my programming based projects and act as a portfolio of my work.</p>
   </section>
 </article>
-<footer>
-  <a href="https://gitlab.comp.dkit.ie/d00270955" target="_blank">Link to my gitlab</a>
-</footer>
